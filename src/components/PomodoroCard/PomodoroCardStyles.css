@@ -1,0 +1,51 @@
+.PomodoroCard{
+  position: relative;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 10px 0;
+    background: rgba(255, 255, 255, 0.9);
+  }
+
+.Remove{
+  position: absolute;
+  content: "X";
+  font-size: 3rem;
+  top: 5px;
+  right: 6px;
+}
+
+.Remove:hover{
+  color: red;
+}
+
+
+  
+  .TopCardInfo{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+  }
+  
+  .ContentCardInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 20px;
+  }
+
+  .ContentCardInfo p:first-child{
+    padding-right: 15px;
+  }
+
+  .topParaph{
+    font-size: 2rem;
+  }
+
+  .task{
+    font-size: 2rem;
+  }
+
+  .time{
+    font-size: 1.5rem;
+  }

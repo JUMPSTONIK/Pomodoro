@@ -1,0 +1,12 @@
+@import url("./utils/globalVariables.css");
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+hr{
+  margin: 10px 0 0;
+}
+
