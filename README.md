@@ -4,7 +4,7 @@
 This project its a classic pomodoro that has 3 different timers. In this project you can start a pomodoro of 25 minutes, a short break of 5 minutes after every pomodoro and a long break of 15 minutes when you do 4 or more pomodoros.
 
 # Project deployed in Netlify
-### https://62774f489f181503bb82faaf--dreamy-cocada-75b645.netlify.app/
+### https://jumpstonik-pomodoro.netlify.app/
 
 ## Available Scripts
 
